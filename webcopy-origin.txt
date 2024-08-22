@@ -1,0 +1,1568 @@
+Uri: https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\ionicons\2.0.1\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.eot?v=2.0.1
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\ionicons\2.0.1\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.svg?v=2.0.1
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\ionicons\2.0.1\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.ttf?v=2.0.1
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\ionicons\2.0.1\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.woff?v=2.0.1
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\ionicons\2.0.1\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://img.youtube.com/vi/13thsysMgaw/maxresdefault.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\vi\13thsysMgaw\maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/m49FmHj9Ww4/maxresdefault.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\vi\m49FmHj9Ww4\maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/n2BhRQiMaHk/maxresdefault.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\vi\n2BhRQiMaHk\maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyAntNYgXflonK8AzPZPEZRh5frqFfpWIJY&callback=initOfficeMap
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://service.force.com/embeddedservice/5.0/esw.min.js
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\embeddedservice\5.0\esw.min.js
+Content Type: application/x-javascript
+
+Uri: https://track.gaconnector.com/gaconnector.js
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\gaconnector.js
+Content Type: text/javascript
+
+Uri: https://tracker.gaconnector.com/gaconnector.js
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\gaconnector-1.js
+Content Type: text/javascript
+
+Uri: https://vod-progressive.akamaized.net/exp=1724372476~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1614%2F13%2F333072133%2F1312656644.mp4~hmac=f0dbd52d5de2694873c264408322d0c60d41e44dc58bc9bae8c4cede3b5d969a/vimeo-prod-skyfire-std-us/01/1614/13/333072133/1312656644.mp4
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\exp=1724372476~acl=vimeo-prod-skyfire-std-us011614133330721331312656644.mp4~hmac=f0dbd52d5de2694873c264408322d0c60d41e44dc58bc9bae8c4cede3b5d969a\vimeo-prod-skyfire-std-us\01\1614\13\333072133\1312656644.mp4
+Content Type: video/mp4
+
+Uri: https://vod-progressive.akamaized.net/exp=1724372592~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1612%2F13%2F333063231%2F1312608485.mp4~hmac=3b2bfe35d761b003541954c10cbb0301d0ee586d6bfc055195277572057c3887/vimeo-prod-skyfire-std-us/01/1612/13/333063231/1312608485.mp4
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\exp=1724372592~acl=vimeo-prod-skyfire-std-us011612133330632311312608485.mp4~hmac=3b2bfe35d761b003541954c10cbb0301d0ee586d6bfc055195277572057c3887\vimeo-prod-skyfire-std-us\01\1612\13\333063231\1312608485.mp4
+Content Type: video/mp4
+
+Uri: https://vod-progressive.akamaized.net/exp=1724372857~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1611%2F13%2F333056652%2F1312570757.mp4~hmac=1ce82a7ca30b850e4c41096d01f60f98382b16d76e6fd96b3b04ad7aaa556f94/vimeo-prod-skyfire-std-us/01/1611/13/333056652/1312570757.mp4
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\exp=1724372857~acl=vimeo-prod-skyfire-std-us011611133330566521312570757.mp4~hmac=1ce82a7ca30b850e4c41096d01f60f98382b16d76e6fd96b3b04ad7aaa556f94\vimeo-prod-skyfire-std-us\01\1611\13\333056652\1312570757.mp4
+Content Type: video/mp4
+
+Uri: https://vod-progressive.akamaized.net/exp=1724372989~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1613%2F13%2F333069050%2F1312640182.mp4~hmac=d5a1027f63f489b18ec4a3a1f3c7ff4ff02aa8e0554554e96886212ea1350f2b/vimeo-prod-skyfire-std-us/01/1613/13/333069050/1312640182.mp4
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\exp=1724372989~acl=vimeo-prod-skyfire-std-us011613133330690501312640182.mp4~hmac=d5a1027f63f489b18ec4a3a1f3c7ff4ff02aa8e0554554e96886212ea1350f2b\vimeo-prod-skyfire-std-us\01\1613\13\333069050\1312640182.mp4
+Content Type: video/mp4
+
+Uri: https://vod-progressive.akamaized.net/exp=1724373053~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1612%2F13%2F333062210%2F1312602752.mp4~hmac=22567e6caea5eb179589816d97086bf4e5f80860144f2ee4351de162fee1b555/vimeo-prod-skyfire-std-us/01/1612/13/333062210/1312602752.mp4
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\exp=1724373053~acl=vimeo-prod-skyfire-std-us011612133330622101312602752.mp4~hmac=22567e6caea5eb179589816d97086bf4e5f80860144f2ee4351de162fee1b555\vimeo-prod-skyfire-std-us\01\1612\13\333062210\1312602752.mp4
+Content Type: video/mp4
+
+Uri: https://vod-progressive.akamaized.net/exp=1724374496~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1616%2F13%2F333081669%2F1312711860.mp4~hmac=089e50446921a899358341694f463000b8b0d27f6d203a52d11acf243d4dc640/vimeo-prod-skyfire-std-us/01/1616/13/333081669/1312711860.mp4
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\exp=1724374496~acl=vimeo-prod-skyfire-std-us011616133330816691312711860.mp4~hmac=089e50446921a899358341694f463000b8b0d27f6d203a52d11acf243d4dc640\vimeo-prod-skyfire-std-us\01\1616\13\333081669\1312711860.mp4
+Content Type: video/mp4
+
+Uri: https://vod-progressive.akamaized.net/exp=1724375237~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1616%2F13%2F333083480%2F1312723376.mp4~hmac=4b6e55b959c68df8609914e2a6ce3941af5c5ec2572ea99656e7799eabb12683/vimeo-prod-skyfire-std-us/01/1616/13/333083480/1312723376.mp4
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\exp=1724375237~acl=vimeo-prod-skyfire-std-us011616133330834801312723376.mp4~hmac=4b6e55b959c68df8609914e2a6ce3941af5c5ec2572ea99656e7799eabb12683\vimeo-prod-skyfire-std-us\01\1616\13\333083480\1312723376.mp4
+Content Type: video/mp4
+
+Uri: https://vod-progressive.akamaized.net/exp=1724375703~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1616%2F13%2F333082477%2F1312717056.mp4~hmac=bd2dd23ee42012e1e71a8b94bdbf3893e1a551ceee26512936b5b1da1f4b733b/vimeo-prod-skyfire-std-us/01/1616/13/333082477/1312717056.mp4
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\exp=1724375703~acl=vimeo-prod-skyfire-std-us011616133330824771312717056.mp4~hmac=bd2dd23ee42012e1e71a8b94bdbf3893e1a551ceee26512936b5b1da1f4b733b\vimeo-prod-skyfire-std-us\01\1616\13\333082477\1312717056.mp4
+Content Type: video/mp4
+
+Uri: https://www.google.com/recaptcha/api.js?hl=en-US
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?hl=es-MX
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\recaptcha\api-2.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?render=6Ldl25YaAAAAACvYQM8oq9paQB4K5ggBy1nh_t2f
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://www.sekologistics.com/app_plugins/umbracoforms/assets/defaultform.css
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\app_plugins\umbracoforms\assets\defaultform.css
+Content Type: text/css
+
+Uri: https://www.sekologistics.com/App_Plugins/UmbracoForms/Assets/Themes/Default/umbracoforms.js
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\App_Plugins\UmbracoForms\Assets\Themes\Default\umbracoforms.js
+Content Type: application/x-javascript
+
+Uri: https://www.sekologistics.com/au/news/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\au\news\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/au/omniparcel/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\au\omniparcel\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/DependencyHandler.axd?s=L2Nzcy9mb250LmJhcmxvdy0zMDAtNDAwLTcwMC5jc3M7L2Nzcy9hbGwuY3NzOy9jc3MvYm9vdHN0cmFwLjMuNC4xLmNzczsvY3NzL2Jvb3RzdHJhcC40LjEuY3NzOy9jc3MvdXNuLWdsb2JhbC5taW4uY3NzOy9jc3Mvc2Vrby1nbG9iYWwubWluLmNzczsvY3NzL2ltYWdlcy5jc3M7&t=Css&cdv=1081438585
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\DependencyHandler.axd
+Content Type: text/css
+
+Uri: https://www.sekologistics.com/DependencyHandler.axd?s=L3NjcmlwdHMvanF1ZXJ5LTIuMi4yLmpzOy9zY3JpcHRzL2pxdWVyeS11aS4xLjEwLjQuanM7L3NjcmlwdHMvanF1ZXJ5LnZhbGlkYXRlLjEuMTkuMC5qczsvc2NyaXB0cy9qcXVlcnkudmFsaWRhdGUudW5vYnRydXNpdmUuNS4yLjMuanM7L3NjcmlwdHMvYm9vdHN0cmFwLjMuNC4xLmpzOy9zY3JpcHRzL21vZGVybml6ci4yLjguMy5qczsvc2NyaXB0cy9wbHVnaW5zLjEuNi4wLmpzOy9zY3JpcHRzL2NpcmNsZS1wcm9ncmVzcy5taW4uanM7L3NjcmlwdHMvYXBwbGljYXRpb24uanM7&t=Javascript&cdv=1081438585
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\DependencyHandler-1.axd
+Content Type: application/x-javascript
+
+Uri: https://www.sekologistics.com/DependencyHandler.axd?s=L3NjcmlwdHMvanF1ZXJ5LTIuMi4yLmpzOy9zY3JpcHRzL2pxdWVyeS11aS4xLjEwLjQuanM7L3NjcmlwdHMvanF1ZXJ5LnZhbGlkYXRlLjEuMTkuMC5qczsvc2NyaXB0cy9qcXVlcnkudmFsaWRhdGUudW5vYnRydXNpdmUuNS4yLjMuanM7L3NjcmlwdHMvYm9vdHN0cmFwLjMuNC4xLmpzOy9zY3JpcHRzL21vZGVybml6ci4yLjguMy5qczsvc2NyaXB0cy9wbHVnaW5zLjEuNi4wLmpzOy9zY3JpcHRzL2NpcmNsZS1wcm9ncmVzcy5taW4uanM7L3NjcmlwdHMvYXBwbGljYXRpb24uanM7L3NjcmlwdHMvb2ZmaWNlLmZpbmRlci5qczs&t=Javascript&cdv=1081438585
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\DependencyHandler-2.axd
+Content Type: application/x-javascript
+
+Uri: https://www.sekologistics.com/media/1510/seko-logo-cropped.png
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\1510\seko-logo-cropped.png
+Content Type: image/png
+
+Uri: https://www.sekologistics.com/media/1873/press-release-seko-logistics-launches-new-aerospace-aviation-industry-vertical.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\1873\press-release-seko-logistics-launches-new-aerospace-aviation-industry-vertical.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/1898/cargo-units-sc-dublin.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\1898\cargo-units-sc-dublin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sekologistics.com/media/1900/pelican-biothermal_credo-production-line.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\1900\pelican-biothermal_credo-production-line.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sekologistics.com/media/1901/michael-daly-seko-logistics.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\1901\michael-daly-seko-logistics.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sekologistics.com/media/2077/seko-case-study_birchbox_final.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2077\seko-case-study_birchbox_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2078/cath_kidston_case_study.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2078\cath_kidston_case_study.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2083/peak_scientific_case_study.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2083\peak_scientific_case_study.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2084/reiss_case_study.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2084\reiss_case_study.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2261/seko-cookie-statement-rev-1_-24-may-18-clean.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2261\seko-cookie-statement-rev-1_-24-may-18-clean.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2264/stc-chi-1.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2264\stc-chi-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2265/stc-eng-1.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2265\stc-eng-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2266/stc-seko-logistics-hk.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2266\stc-seko-logistics-hk.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2587/seko-client-access-or-deletion-request-form_v1-12272019-final.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2587\seko-client-access-or-deletion-request-form_v1-12272019-final.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2591/bifa-standard-trading-conditions-2017-english-edition.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2591\bifa-standard-trading-conditions-2017-english-edition.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2597/website-privacy-notice-terms-of-use_rev-01072020-final.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2597\website-privacy-notice-terms-of-use_rev-01072020-final.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2598/seko-information-access-deletion-requests-policy_rev-01072020-final.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2598\seko-information-access-deletion-requests-policy_rev-01072020-final.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2599/seko-cookie-statement_rev-01072020-final.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2599\seko-cookie-statement_rev-01072020-final.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/2747/screen-shot-2015-10-07-at-100551-am.png?anchor=center&mode=crop&width=8&height=6&rnd=132240799040000000
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\2747\screen-shot-2015-10-07-at-100551-am.png
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/media/3086/bg_01.png
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\3086\bg_01.png
+Content Type: image/png
+
+Uri: https://www.sekologistics.com/media/3677/seko_ecommerce_banner_3000px_1100px_tint_ecommerce.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\3677\seko_ecommerce_banner_3000px_1100px_tint_ecommerce.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sekologistics.com/media/3678/seko_ecommerce_banner_3000px_1100px_tint_crossborder.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\3678\seko_ecommerce_banner_3000px_1100px_tint_crossborder.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sekologistics.com/media/6522/3000-x-600-cta.png
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\6522\3000-x-600-cta.png
+Content Type: image/png
+
+Uri: https://www.sekologistics.com/media/6686/seko-customs-brokerage-inc-terms-and-conditions-rev-6-24-2022.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\6686\seko-customs-brokerage-inc-terms-and-conditions-rev-6-24-2022.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/6687/seko-ecommerce-terms-conditions-rev-06-24-2022.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\6687\seko-ecommerce-terms-conditions-rev-06-24-2022.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/6688/seko-terms-and-conditions-domestic-surface-and-air-rev-042022.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\6688\seko-terms-and-conditions-domestic-surface-and-air-rev-042022.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/6689/seko-terms-and-conditions-international-air-rev-042022.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\6689\seko-terms-and-conditions-international-air-rev-042022.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/6690/seko-terms-and-conditions-nvocc-ocean-rev-042022.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\6690\seko-terms-and-conditions-nvocc-ocean-rev-042022.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/6691/seko-terms-and-conditions-warehousing-and-storage-services-rev-042022.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\6691\seko-terms-and-conditions-warehousing-and-storage-services-rev-042022.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/6752/seko-worldwide-inc-accredidation-certificate-2014-2023.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\6752\seko-worldwide-inc-accredidation-certificate-2014-2023.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/7165/seko_722_iso-cert-issue-15_2022.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\7165\seko_722_iso-cert-issue-15_2022.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/7313/corp_background_2000px.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\7313\corp_background_2000px.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sekologistics.com/media/7474/seko-sustainability-report-digital-2023.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\7474\seko-sustainability-report-digital-2023.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/7540/ctpat-tm-cm.png
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\7540\ctpat-tm-cm.png
+Content Type: image/png
+
+Uri: https://www.sekologistics.com/media/8110/iso-9901_seko-logistics-australia-pty-ltd.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\8110\iso-9901_seko-logistics-australia-pty-ltd.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/8111/haccp-certificate_seko-global-hk_2024_2027.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\8111\haccp-certificate_seko-global-hk_2024_2027.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/8112/iso-9001-certificate_seko-log-sha_eng.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\8112\iso-9001-certificate_seko-log-sha_eng.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/media/8122/ursula.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\8122\ursula.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sekologistics.com/media/8167/main-website-banner-globe-only-narrow3.jpg
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\8167\main-website-banner-globe-only-narrow3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sekologistics.com/media/8181/seko-client-privacy-policy_rev-01072020-final_updated_06172024.pdf
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\media\8181\seko-client-privacy-policy_rev-01072020-final_updated_06172024.pdf
+Content Type: application/pdf
+
+Uri: https://www.sekologistics.com/uk/white-glove/integrated-server-logistics/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\uk\white-glove\integrated-server-logistics\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/?domain=sourcingjournal.com
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\index-1.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/awards/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\awards\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/brexit-knowledge-hub/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\brexit-knowledge-hub\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/careers/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\careers\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/certifications/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\certifications\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/client-focus/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\client-focus\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/client-focus/seko-heroes/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\client-focus\seko-heroes\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/client-focus/testimonials/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\client-focus\testimonials\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/collaboration-partners/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\collaboration-partners\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/covid-19/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\covid-19\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/global-team/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\global-team\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/?page=1
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\index-1.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/?page=2
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\index-2.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/?page=3
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\index-3.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/?page=4
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\index-4.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/?page=6
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\index-5.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/categories/apac/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\categories\apac\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/categories/apac/?page=1
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\categories\apac\index-1.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/categories/apac/?page=2
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\categories\apac\index-2.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/categories/ukraine-conflict/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\categories\ukraine-conflict\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2020/august/next-steps-following-the-upu-changes/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2020\august\next-steps-following-the-upu-changes\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/april/asia-pacific-port-situation-update-april-8/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\april\asia-pacific-port-situation-update-april-8\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/december/seko-cares-2022-update/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\december\seko-cares-2022-update\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/february/market-update-global-shipping-impact-war-in-ukraine-feb-28/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\february\market-update-global-shipping-impact-war-in-ukraine-feb-28\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/june/supply-chain-crisis-2-0/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\june\supply-chain-crisis-2-0\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/march/2022/march/asia-pacific-port-situation-update-march-31/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\march\2022\march\asia-pacific-port-situation-update-march-31\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/march/certain-section-301-exclusions-reinstated/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\march\certain-section-301-exclusions-reinstated\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/march/covid-19-advisory-notice-greater-china-update-march-13/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\march\covid-19-advisory-notice-greater-china-update-march-13\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/march/covid-19-advisory-notice-greater-china-update-march-14/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\march\covid-19-advisory-notice-greater-china-update-march-14\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/march/covid-19-advisory-notice-greater-china-update-march-16/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\march\covid-19-advisory-notice-greater-china-update-march-16\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/march/covid-19-advisory-notice-greater-china-update-march-28/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\march\covid-19-advisory-notice-greater-china-update-march-28\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/march/hair-trigger-china-lockdowns-are-hurting-supply/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\march\hair-trigger-china-lockdowns-are-hurting-supply\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/march/what-the-truck/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\march\what-the-truck\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/november/imo-2023-maritime-decarbonization-what-you-need-to-know/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\november\imo-2023-maritime-decarbonization-what-you-need-to-know\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/september/communication-materials-for-alan-humanitarian-logistics-awards-announcement/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\september\communication-materials-for-alan-humanitarian-logistics-awards-announcement\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2022/september/seko-cares-providing-aid-to-ukraine/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2022\september\seko-cares-providing-aid-to-ukraine\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2023/april/kai-lincoln-s-earth-day-tips-five-simple-ways-to-build-eco-friendly-habits/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2023\april\kai-lincoln-s-earth-day-tips-five-simple-ways-to-build-eco-friendly-habits\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2023/march/sustainable-logistics-why-choose-an-eco-friendly-fulfilment-partner/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2023\march\sustainable-logistics-why-choose-an-eco-friendly-fulfilment-partner\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2024/april/five-simple-steps-towards-an-eco-friendly-life-from-kai-lincoln-vp-of-sustainability/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2024\april\five-simple-steps-towards-an-eco-friendly-life-from-kai-lincoln-vp-of-sustainability\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2024/april/leveraging-technology-for-enhanced-medical-logistics-operations/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2024\april\leveraging-technology-for-enhanced-medical-logistics-operations\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2024/april/maximizing-efficiency-in-d2c-brand-fulfillment-operations/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2024\april\maximizing-efficiency-in-d2c-brand-fulfillment-operations\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2024/august/how-seko-s-embracing-sustainable-aviation-fuel/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2024\august\how-seko-s-embracing-sustainable-aviation-fuel\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2024/july/green-logistics-building-a-sustainable-future-in-supply-chain-management/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2024\july\green-logistics-building-a-sustainable-future-in-supply-chain-management\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2024/july/how-to-effectively-scale-your-logistics-operations-as-your-business-grows/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2024\july\how-to-effectively-scale-your-logistics-operations-as-your-business-grows\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2024/july/navigating-the-challenges-of-rural-and-remote-area-deliveries/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2024\july\navigating-the-challenges-of-rural-and-remote-area-deliveries\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/knowledge-hub/posts/2024/july/the-complete-guide-to-reverse-logistics-and-returns-management/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\knowledge-hub\posts\2024\july\the-complete-guide-to-reverse-logistics-and-returns-management\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/resources/seko-fuel-surcharge-rates-2022-24-usa/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\resources\seko-fuel-surcharge-rates-2022-24-usa\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/resources/terms-and-conditions-of-service/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\resources\terms-and-conditions-of-service\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/resources/terms-and-conditions-of-service/terms-and-conditions-warehouse-storage/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\resources\terms-and-conditions-of-service\terms-and-conditions-warehouse-storage\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/resources/terms-and-conditions-of-service/terms-conditions-customs-brokerage/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\resources\terms-and-conditions-of-service\terms-conditions-customs-brokerage\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/resources/terms-and-conditions-of-service/terms-conditions-ground-surface-us-domestic-airtransportation/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\resources\terms-and-conditions-of-service\terms-conditions-ground-surface-us-domestic-airtransportation\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/resources/terms-and-conditions-of-service/terms-conditions-international-air-freight/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\resources\terms-and-conditions-of-service\terms-conditions-international-air-freight\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/resources/terms-and-conditions-of-service/terms-conditions-ocean-freight/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\resources\terms-and-conditions-of-service\terms-conditions-ocean-freight\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/resources/terms-and-conditions-of-service/terms-conditions-ocean-freight/ocean-freight-terms-and-conditions/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\resources\terms-and-conditions-of-service\terms-conditions-ocean-freight\ocean-freight-terms-and-conditions\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/resources/terms-and-conditions-of-service/terms-conditions-small-parcel-transportation-ecommerce/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\resources\terms-and-conditions-of-service\terms-conditions-small-parcel-transportation-ecommerce\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/about/seko-cares-esg/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\about\seko-cares-esg\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/brands/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\brands\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/brigg/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\brigg\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/cakeboxx/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\cakeboxx\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/birchbox/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\birchbox\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/canyon-bikes/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\canyon-bikes\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/cath-kidston-japan/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\cath-kidston-japan\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/cath-kidston/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\cath-kidston\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/ct-shirts/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\ct-shirts\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/dell-emc/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\dell-emc\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/electronic-express/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\electronic-express\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/ember/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\ember\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/escalade-sports/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\escalade-sports\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/instrumentation-laboratory/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\instrumentation-laboratory\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/irish-at-heart/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\irish-at-heart\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/lura/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\lura\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/manscaped/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\manscaped\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/mous/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\mous\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/ms-rt/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\ms-rt\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/olsam-group/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\olsam-group\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/peak-scientific/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\peak-scientific\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/pelican/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\pelican\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/reiss/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\reiss\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/sagemcom/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\sagemcom\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/sri-international/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\sri-international\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/swan/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\swan\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/trugolf/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\trugolf\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/virgin-atlantic/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\virgin-atlantic\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/case-studies/vivo-life/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\case-studies\vivo-life\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/contact/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/contact/become-a-partner/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\contact\become-a-partner\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/contact/general-inquiry/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\contact\general-inquiry\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/contact/join-the-team/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\contact\join-the-team\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/contact/new-business-inquiry/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\contact\new-business-inquiry\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/contact/newsletter-subscribe/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\contact\newsletter-subscribe\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/contact/open-seko-location/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\contact\open-seko-location\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/ecommerce/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\ecommerce\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/aerospace-and-aviation/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\aerospace-and-aviation\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/air-freight-forwarding/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\air-freight-forwarding\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/automotive/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\automotive\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/customs-clearance/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\customs-clearance\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/customs-clearance/section-321-type-86-clearance/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\customs-clearance\section-321-type-86-clearance\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/domestic-expedite/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\domestic-expedite\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/government-space-and-defense/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\government-space-and-defense\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/ground-transportation/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\ground-transportation\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/industrial/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\industrial\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/next-flight-out-nfo-services/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\next-flight-out-nfo-services\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/north-american-transborder/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\north-american-transborder\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/ocean-freight-forwarding/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\ocean-freight-forwarding\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/freight-forwarding/warehousing-and-order-fulfillment/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\freight-forwarding\warehousing-and-order-fulfillment\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/global-cross-border-returns/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\global-cross-border-returns\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/global-hub-fulfillment/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\global-hub-fulfillment\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/home-delivery-and-last-mile/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\home-delivery-and-last-mile\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-alexandra-moldovan/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-alexandra-moldovan\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-charlene-barnes/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-charlene-barnes\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-derashnee-govindasamy/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-derashnee-govindasamy\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-elizabeth-tavares/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-elizabeth-tavares\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-fiona-tram/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-fiona-tram\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-gareth-mccaffrey/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-gareth-mccaffrey\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-gavin-pereira/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-gavin-pereira\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-jo-sawyer/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-jo-sawyer\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-joe-miller/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-joe-miller\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-shanley-compton/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-shanley-compton\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/i-am/i-am-silvio-maggiotto/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\i-am\i-am-silvio-maggiotto\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/algeria/1525/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\algeria\1525\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/algeria/altisa/1613/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\algeria\altisa\1613\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/egypt/1536/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\egypt\1536\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/egypt/rockit-transport-services/1642/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\egypt\rockit-transport-services\1642\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/kenya/1544/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\kenya\1544\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/kenya/tradewinds-logistics-ltd/1606/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\kenya\tradewinds-logistics-ltd\1606\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/libya/1552/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\libya\1552\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/libya/aleef-line-shipping-agency-co/1590/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\libya\aleef-line-shipping-agency-co\1590\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/mauritius/1558/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\mauritius\1558\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/mauritius/global-air-cargo-services-ltd-port-louis/1630/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\mauritius\global-air-cargo-services-ltd-port-louis\1630\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/morocco/1561/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\morocco\1561\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/morocco/bansard-morocco-bcl-morocco/1649/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\morocco\bansard-morocco-bcl-morocco\1649\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/south-africa/1564/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\south-africa\1564\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/south-africa/seko-logistics-cape-town-south-africa/1640/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\south-africa\seko-logistics-cape-town-south-africa\1640\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/south-africa/seko-logistics-johannesburg-south-africa/1683/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\south-africa\seko-logistics-johannesburg-south-africa\1683\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/south-africa/seko-worldwide-pty-ltd-durban-south-africa/1647/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\south-africa\seko-worldwide-pty-ltd-durban-south-africa\1647\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/tunisia/1566/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\tunisia\1566\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/tunisia/bansard-tunisia/1637/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\tunisia\bansard-tunisia\1637\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/africa/uganda/1569/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\africa\uganda\1569\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/afghanistan/2171/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\afghanistan\2171\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/afghanistan/msharib-shipping-logistics/2172/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\afghanistan\msharib-shipping-logistics\2172\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/bangladesh/1523/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\bangladesh\1523\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/bangladesh/bil-logistics-international-limited/1598/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\bangladesh\bil-logistics-international-limited\1598\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/cambodia/1531/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\cambodia\1531\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/cambodia/seko-logistics-cambodia-co-ltd/1607/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\cambodia\seko-logistics-cambodia-co-ltd\1607\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/china/1534/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\china\1534\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/china/seko-logistics-hk-limited-taiwan-branch/1622/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\china\seko-logistics-hk-limited-taiwan-branch\1622\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/china/seko-logistics-shanghai-company-limited-guangzhou-branch/35048/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\china\seko-logistics-shanghai-company-limited-guangzhou-branch\35048\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/china/seko-logistics-shanghai-company-limited-hangzhou-branch/17124/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\china\seko-logistics-shanghai-company-limited-hangzhou-branch\17124\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/china/seko-logistics-shanghai-company-limited-ningbo-branch/1658/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\china\seko-logistics-shanghai-company-limited-ningbo-branch\1658\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/china/seko-logistics-shanghai-company-limited-qingdao-branch/1701/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\china\seko-logistics-shanghai-company-limited-qingdao-branch\1701\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/china/seko-logistics-shanghai-company-limited-shenzhen-branch/1677/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\china\seko-logistics-shanghai-company-limited-shenzhen-branch\1677\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/china/seko-logistics-shanghai-company-limited-xiamen-branch/1693/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\china\seko-logistics-shanghai-company-limited-xiamen-branch\1693\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/china/seko-logistics-shanghai-company-limited/1621/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\china\seko-logistics-shanghai-company-limited\1621\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/india/1543/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\india\1543\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/india/seko-logistics-india-private-limited-chennai/1684/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\india\seko-logistics-india-private-limited-chennai\1684\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/india/seko-logistics-india-private-limited/1705/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\india\seko-logistics-india-private-limited\1705\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/indonesia/1553/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\indonesia\1553\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/indonesia/pt-maximos-global-logistik/35044/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\indonesia\pt-maximos-global-logistik\35044\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/japan/1554/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\japan\1554\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/japan/seko-logistics-japan-co-ltd-distribution-center-omni-channel/9801/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\japan\seko-logistics-japan-co-ltd-distribution-center-omni-channel\9801\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/japan/seko-logistics-japan-co-ltd/1617/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\japan\seko-logistics-japan-co-ltd\1617\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/malaysia/1560/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\malaysia\1560\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/malaysia/seko-logistics-m-sdn-bhd/1694/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\malaysia\seko-logistics-m-sdn-bhd\1694\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/pakistan/1563/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\pakistan\1563\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/pakistan/wwg-consolidators-pvt-ltd/1591/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\pakistan\wwg-consolidators-pvt-ltd\1591\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/philippines/1565/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\philippines\1565\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/philippines/a-hardrodt-philippines-clark-freeport-zone/1671/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\philippines\a-hardrodt-philippines-clark-freeport-zone\1671\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/philippines/a-hardrodt-philippines-davao-city/1672/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\philippines\a-hardrodt-philippines-davao-city\1672\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/philippines/a-hardrodt-philippines-makati-city/1697/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\philippines\a-hardrodt-philippines-makati-city\1697\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/philippines/a-hardrodt-philippines-mandue-city/1698/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\philippines\a-hardrodt-philippines-mandue-city\1698\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/singapore/1570/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\singapore\1570\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/singapore/seko-logistics-singapore-pte-ltd/1592/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\singapore\seko-logistics-singapore-pte-ltd\1592\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/south-korea/1571/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\south-korea\1571\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/sri-lanka/1573/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\sri-lanka\1573\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/thailand/1577/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\thailand\1577\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/asia/vietnam/1579/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\asia\vietnam\1579\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/austria/1522/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\austria\1522\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/belgium/1528/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\belgium\1528\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/bulgaria/1538/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\bulgaria\1538\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/croatia/8291/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\croatia\8291\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/czech-republic/1540/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\czech-republic\1540\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/denmark/1545/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\denmark\1545\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/france/1550/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\france\1550\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/germany/1555/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\germany\1555\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/greece/7070/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\greece\7070\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/hungary/1559/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\hungary\1559\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/ireland/1562/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\ireland\1562\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/italy/1567/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\italy\1567\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/netherlands/1568/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\netherlands\1568\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/norway/1572/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\norway\1572\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/portugal/1574/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\portugal\1574\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/romania/1575/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\romania\1575\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/russia/1585/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\russia\1585\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/serbia/8308/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\serbia\8308\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/slovakia/1578/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\slovakia\1578\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/slovenia/1580/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\slovenia\1580\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/spain/1581/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\spain\1581\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/sweden/1582/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\sweden\1582\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/turkey/1583/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\turkey\1583\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/turkey/seko-ulak-lojistik-a-s-istanbul/1639/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\turkey\seko-ulak-lojistik-a-s-istanbul\1639\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/united-kingdom/1584/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\united-kingdom\1584\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/united-kingdom/seko-logistics-egham-london-global-cross-border-logistics/1679/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\united-kingdom\seko-logistics-egham-london-global-cross-border-logistics\1679\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/united-kingdom/seko-logistics-farnborough-specialist-white-glove-logistics/1628/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\united-kingdom\seko-logistics-farnborough-specialist-white-glove-logistics\1628\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/united-kingdom/seko-logistics-glasgow-expert-freight-forwarding-services/1652/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\united-kingdom\seko-logistics-glasgow-expert-freight-forwarding-services\1652\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/united-kingdom/seko-logistics-manchester-freight-forwarding-services/1691/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\united-kingdom\seko-logistics-manchester-freight-forwarding-services\1691\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/united-kingdom/seko-logistics-milton-keynes-omni-channel-logistics/1714/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\united-kingdom\seko-logistics-milton-keynes-omni-channel-logistics\1714\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/united-kingdom/seko-logistics-southampton-ocean-freight-forwarding/1703/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\united-kingdom\seko-logistics-southampton-ocean-freight-forwarding\1703\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/united-kingdom/seko-logistics-uk-hq/1711/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\united-kingdom\seko-logistics-uk-hq\1711\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/europe/united-kingdom/seko-logistics-warrington-freight-forwarding-services/1706/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\europe\united-kingdom\seko-logistics-warrington-freight-forwarding-services\1706\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/middle-east/israel/1530/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\middle-east\israel\1530\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/middle-east/jordan/1532/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\middle-east\jordan\1532\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/middle-east/kuwait/7193/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\middle-east\kuwait\7193\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/middle-east/lebanon/19536/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\middle-east\lebanon\19536\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/middle-east/saudi-arabia/1548/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\middle-east\saudi-arabia\1548\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/middle-east/united-arab-emirates/1556/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\middle-east\united-arab-emirates\1556\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/canada/1524/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\canada\1524\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/costa-rica/1529/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\costa-rica\1529\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/dominican-republic/1535/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\dominican-republic\1535\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/mexico/1541/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\mexico\1541\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/panama/1547/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\panama\1547\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/united-states/1549/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\united-states\1549\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/united-states/seko-logistics-aerospace-aviation-hq/1735/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\united-states\seko-logistics-aerospace-aviation-hq\1735\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/united-states/seko-logistics-global-hq/1736/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\united-states\seko-logistics-global-hq\1736\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/united-states/seko-logistics-medtec-hq-state-college/1771/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\united-states\seko-logistics-medtec-hq-state-college\1771\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/united-states/seko-logistics-new-york-jfk-gateway/25443/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\united-states\seko-logistics-new-york-jfk-gateway\25443\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/united-states/seko-logistics-newark/1751/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\united-states\seko-logistics-newark\1751\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/united-states/seko-logistics-norfolk/1752/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\united-states\seko-logistics-norfolk\1752\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/united-states/seko-logistics-omni-3pl-cranbury-nj-ttn/1728/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\united-states\seko-logistics-omni-3pl-cranbury-nj-ttn\1728\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/united-states/seko-logistics-ord/37397/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\united-states\seko-logistics-ord\37397\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/north-america/united-states/seko-logistics-orlando/1753/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\north-america\united-states\seko-logistics-orlando\1753\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/oceania/australia/1527/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\oceania\australia\1527\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/oceania/new-zealand/1533/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\oceania\new-zealand\1533\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/office-finder/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\office-finder\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/south-america/argentina/1526/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\south-america\argentina\1526\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/south-america/brazil/1537/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\south-america\brazil\1537\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/south-america/chile/1546/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\south-america\chile\1546\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/south-america/colombia/1539/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\south-america\colombia\1539\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/south-america/ecuador/1551/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\south-america\ecuador\1551\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/locations/south-america/peru/1557/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\locations\south-america\peru\1557\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/manifest/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\manifest\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/marketplaces-and-sellers/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\marketplaces-and-sellers\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/media-inquiries/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\media-inquiries\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/?page=1
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\index-1.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/?page=2
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\index-2.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/?page=3
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\index-3.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/?page=4
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\index-4.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/?page=5
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\index-5.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/?page=6
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\index-6.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/categories/client-advisories/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\categories\client-advisories\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/categories/events/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\categories\events\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2014/february/seko-store-development-helps-retailers-expand-around-the-globe/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2014\february\seko-store-development-helps-retailers-expand-around-the-globe\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2014/july/seko-logistics-gains-another-full-aeo-certification-in-ireland/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2014\july\seko-logistics-gains-another-full-aeo-certification-in-ireland\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2016/january/seko-logistics-launches-new-aerospace-and-aviation-industry-vertical/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2016\january\seko-logistics-launches-new-aerospace-and-aviation-industry-vertical\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2016/may/seko-logistics-opens-its-first-uk-centre-of-excellence-for-aerospace-aviation-customers/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2016\may\seko-logistics-opens-its-first-uk-centre-of-excellence-for-aerospace-aviation-customers\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2017/december/seko-logistics-uk-offices-are-fully-aeo-certified/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2017\december\seko-logistics-uk-offices-are-fully-aeo-certified\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2017/may/growth-of-medical-automotive-manufacturing-and-high-tech-sectors-prompts-seko-logistics-expansion-in-the-u-s-northeast-interior/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2017\may\growth-of-medical-automotive-manufacturing-and-high-tech-sectors-prompts-seko-logistics-expansion-in-the-u-s-northeast-interior\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2018/december/transporting-technology-in-style-for-electronic-express/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2018\december\transporting-technology-in-style-for-electronic-express\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2018/january/speed-of-response-to-the-shift-in-consumer-behavior-offers-unprecedented-international-growth-opportunities/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2018\january\speed-of-response-to-the-shift-in-consumer-behavior-offers-unprecedented-international-growth-opportunities\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2018/july/seko-logistics-invests-in-flagship-london-heathrow-facility-to-support-cross-border-demand-for-british-and-global-brands/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2018\july\seko-logistics-invests-in-flagship-london-heathrow-facility-to-support-cross-border-demand-for-british-and-global-brands\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2018/september/seko-logistics-acquires-majority-stake-in-omni-channel-logistics-to-solidify-global-cross-border-ecommerce-solutions/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2018\september\seko-logistics-acquires-majority-stake-in-omni-channel-logistics-to-solidify-global-cross-border-ecommerce-solutions\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2019/february/finding-the-perfect-temperature-for-ember-the-world-s-first-temperature-control-mug/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2019\february\finding-the-perfect-temperature-for-ember-the-world-s-first-temperature-control-mug\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2019/january/seko-logistics-kicks-off-a-transformative-year-in-2019-by-acquiring-chicago-based-forwarder-and-compliance-specialists-goodship-international/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2019\january\seko-logistics-kicks-off-a-transformative-year-in-2019-by-acquiring-chicago-based-forwarder-and-compliance-specialists-goodship-international\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2019/july/new-chicago-gateway-facility-triples-seko-logistics-footprint-in-chicago-as-it-forecasts-three-fold-growth-in-business-in-2019/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2019\july\new-chicago-gateway-facility-triples-seko-logistics-footprint-in-chicago-as-it-forecasts-three-fold-growth-in-business-in-2019\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2019/march/peli-biothermal-chooses-seko-logistics-to-serve-clients-in-ireland-s-buoyant-biotech-and-pharma-community/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2019\march\peli-biothermal-chooses-seko-logistics-to-serve-clients-in-ireland-s-buoyant-biotech-and-pharma-community\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2020/april/seko-logistics-launches-seko-cares-and-partners-with-project-c-u-r-e-to-support-frontline-medical-heroes-in-the-battle-against-covid-19/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2020\april\seko-logistics-launches-seko-cares-and-partners-with-project-c-u-r-e-to-support-frontline-medical-heroes-in-the-battle-against-covid-19\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2020/april/the-air-city-team-and-seko-jfk-support-the-relief-effort-in-new-york-city/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2020\april\the-air-city-team-and-seko-jfk-support-the-relief-effort-in-new-york-city\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2020/july/seko-partners-with-better-packaging-for-more-sustainable-global-ecommerce/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2020\july\seko-partners-with-better-packaging-for-more-sustainable-global-ecommerce\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2020/march/seko-logistics-medtec-deploys-rapid-response-infrastructure-to-ensure-deliveries-of-urgent-medical-equipment-and-supplies/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2020\march\seko-logistics-medtec-deploys-rapid-response-infrastructure-to-ensure-deliveries-of-urgent-medical-equipment-and-supplies\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2020/november/seko-logistics-partners-with-bringg-to-offer-new-age-digital-consumers-visibility-and-control-of-their-delivery-experience/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2020\november\seko-logistics-partners-with-bringg-to-offer-new-age-digital-consumers-visibility-and-control-of-their-delivery-experience\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2021/december/seko-and-buyer-connected-launch-city-of-refuge-logistics-training-program-to-support-more-inclusive-hiring-opportunities-and-help-former-offenders-thrive-outside-of-prison/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2021\december\seko-and-buyer-connected-launch-city-of-refuge-logistics-training-program-to-support-more-inclusive-hiring-opportunities-and-help-former-offenders-thrive-outside-of-prison\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2022/august/new-humanitarian-partnerships-continue-seko-logistics-commitment-to-ukraine/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2022\august\new-humanitarian-partnerships-continue-seko-logistics-commitment-to-ukraine\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2022/december/seko-logistics-to-add-warehouse-bots-to-scale-up-operations/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2022\december\seko-logistics-to-add-warehouse-bots-to-scale-up-operations\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2022/january/multichannel-merchant-names-seko-logistics-a-top-3pl-for-2022/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2022\january\multichannel-merchant-names-seko-logistics-a-top-3pl-for-2022\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2022/june/2022/june/seko-names-kai-lincoln-first-global-head-of-sustainability/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2022\june\2022\june\seko-names-kai-lincoln-first-global-head-of-sustainability\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2023/february/2023/february/relief-efforts-in-turkey-syria-face-logistical-hurdles/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2023\february\2023\february\relief-efforts-in-turkey-syria-face-logistical-hurdles\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2023/february/airlink-teams-up-with-partners-to-get-first-cargo-shipment-of-aid-to-turkiye/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2023\february\airlink-teams-up-with-partners-to-get-first-cargo-shipment-of-aid-to-turkiye\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2023/february/why-seko-logistics-is-partnering-with-happy-returns/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2023\february\why-seko-logistics-is-partnering-with-happy-returns\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2023/july/seko-logistics-releases-first-ever-esg-report/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2023\july\seko-logistics-releases-first-ever-esg-report\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2024/august/seko-logistics-voted-as-top-10-3pl-for-10th-consecutive-year/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2024\august\seko-logistics-voted-as-top-10-3pl-for-10th-consecutive-year\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2024/july/client-advisory-bangladesh-civil-unrest-august-6-update/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2024\july\client-advisory-bangladesh-civil-unrest-august-6-update\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2024/july/seko-logistics-enhances-client-solutions-and-commercial-strategy-with-new-hire-promotion/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2024\july\seko-logistics-enhances-client-solutions-and-commercial-strategy-with-new-hire-promotion\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2024/may/client-advisory-port-of-baltimore-disruption-updated-june-12/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2024\may\client-advisory-port-of-baltimore-disruption-updated-june-12\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2024/may/rangers-announce-seko-logistics-as-women-s-back-of-shirt-partner/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2024\may\rangers-announce-seko-logistics-as-women-s-back-of-shirt-partner\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2024/may/seko-logistics-expands-and-upgrades-apac-operations-in-singapore/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2024\may\seko-logistics-expands-and-upgrades-apac-operations-in-singapore\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2024/may/seko-logistics-expands-emea-operations-to-portugal/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2024\may\seko-logistics-expands-emea-operations-to-portugal\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2024/may/seko-logistics-promotes-paul-good-to-apac-president/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2024\may\seko-logistics-promotes-paul-good-to-apac-president\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/news/posts/2024/may/seko-logistics-welcomes-ursula-wallace-as-director-ocean-product-north-america/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\news\posts\2024\may\seko-logistics-welcomes-ursula-wallace-as-director-ocean-product-north-america\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/omni-channel/ecommerce/cross-border-ecommerce-shipping-solutions/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\omni-channel\ecommerce\cross-border-ecommerce-shipping-solutions\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/privacy-center/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\privacy-center\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/retailers/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\retailers\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/search-results/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\search-results\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/sitemap/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\sitemap\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/technology/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\technology\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/technology/integrations/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\technology\integrations\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/technology/seko-live/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\technology\seko-live\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/track/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\track\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/true-next-day/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\true-next-day\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/asset-management/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\asset-management\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/demo-management/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\demo-management\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/finished-goods-installation/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\finished-goods-installation\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/high-tech/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\high-tech\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/integrated-server-logistics/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\integrated-server-logistics\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/medical-devices/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\medical-devices\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/medtec-solutions/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\medtec-solutions\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/reverse-logistics/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\reverse-logistics\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/reverse-logistics/?domain=sourcingjournal.com/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\reverse-logistics\index-1.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/store-development-services/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\store-development-services\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.com/us/white-glove/tradeshows-and-events/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\us\white-glove\tradeshows-and-events\index.htm
+Content Type: text/html
+
+Uri: https://www.sekologistics.mx/app_plugins/umbracoforms/assets/defaultform.css
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\app_plugins\umbracoforms\assets\defaultform-1.css
+Content Type: text/css
+
+Uri: https://www.sekologistics.mx/App_Plugins/UmbracoForms/Assets/Themes/Default/umbracoforms.js
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\App_Plugins\UmbracoForms\Assets\Themes\Default\umbracoforms-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.sekologistics.mx/DependencyHandler.axd?s=L3NjcmlwdHMvanF1ZXJ5LTIuMi4yLmpzOy9zY3JpcHRzL2pxdWVyeS11aS4xLjEwLjQuanM7L3NjcmlwdHMvanF1ZXJ5LnZhbGlkYXRlLjEuMTkuMC5qczsvc2NyaXB0cy9qcXVlcnkudmFsaWRhdGUudW5vYnRydXNpdmUuNS4yLjMuanM7L3NjcmlwdHMvYm9vdHN0cmFwLjMuNC4xLmpzOy9zY3JpcHRzL21vZGVybml6ci4yLjguMy5qczsvc2NyaXB0cy9wbHVnaW5zLjEuNi4wLmpzOy9zY3JpcHRzL2NpcmNsZS1wcm9ncmVzcy5taW4uanM7L3NjcmlwdHMvYXBwbGljYXRpb24uanM7&t=Javascript&cdv=1081438585
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\DependencyHandler-3.axd
+Content Type: application/x-javascript
+
+Uri: https://www.sekologistics.mx/mx/freight-forwarding/agente-de-carga-maritima/
+File Name: C:\Downloaded Web Sites\www.sekologistics.com\mx\freight-forwarding\agente-de-carga-maritima\index.htm
+Content Type: text/html
+
